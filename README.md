@@ -10,7 +10,7 @@ This project showcases my skills, projects, and experience as a web developer.
 - Skills section
 - Contact information
 - Contact information
-- Enjoy
+- Enjoy DBMS
 
 ## 🛠️ Technologies Used
 
