@@ -9,6 +9,7 @@ This project showcases my skills, projects, and experience as a web developer.
 - About Me section
 - Skills section
 - Contact information
+- Contact information
 
 ## 🛠️ Technologies Used
 
